@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- 🎯 GIF principal del proyecto aquí -->
-![gif-principal](PEGA_AQUI_URL_DE_UN_GIF_DE_PHP_O_COMPOSER)
+
+![gif-principal](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnM5cmY3Zml6Y21mNDZwN3BheXJkb3pjNWFwd3JiYzUyc2RvOGVxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qb1eHxhUHLdsc/giphy.gif)
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-2.x-885630?style=for-the-badge&logo=composer&logoColor=white)
@@ -154,8 +154,8 @@ AutocargaEjemplo/
 
 ## ⚙️ Secuencia de Comandos Utilizados
 
-<!-- 🎮 GIF de terminal/coding aquí -->
-![gif-terminal](PEGA_AQUI_URL_DE_UN_GIF_DE_TERMINAL_O_CODING)
+
+![gif-terminal](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDI5dWNldWU5d2g0ZDFzcmw4YXo2dmpmdjdtMHhpam50aXZ4bnNmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1448TKNMMg4BFu/giphy.gif)
 
 ### 1️⃣ Crear la carpeta del proyecto y su estructura
 
@@ -331,8 +331,8 @@ Thumbs.db
 
 ### ✅ Ejecución de `composer dump-autoload`
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DE composer dump-autoload EN TU TERMINAL -->
-![screenshot-dump-autoload](PEGA_AQUI_URL_O_RUTA_DEL_SCREENSHOT_DUMP_AUTOLOAD)
+<img width="599" height="75" alt="image" src="https://github.com/user-attachments/assets/6086fb41-c068-49a4-beff-0888360a6fbb" />
+
 
 > 📌 *Comando:* `composer dump-autoload` — genera la carpeta `vendor/` con el autoloader.
 
@@ -340,8 +340,8 @@ Thumbs.db
 
 ### ✅ Estructura de `vendor/` generada
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DE LA CARPETA VENDOR EN VS CODE -->
-![screenshot-vendor](PEGA_AQUI_URL_O_RUTA_DEL_SCREENSHOT_VENDOR)
+<img width="365" height="271" alt="image" src="https://github.com/user-attachments/assets/ea6db6fe-f500-47d1-a276-5687a43efb7a" />
+
 
 > 📌 Después de ejecutar el comando, se genera `vendor/` con los archivos: `autoload.php`, `autoload_psr4.php`, `autoload_classmap.php`, `ClassLoader.php`, etc.
 
@@ -349,8 +349,8 @@ Thumbs.db
 
 ### ✅ Ejecución de `php index.php`
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DE LA TERMINAL CON LA SALIDA Dave123 -->
-![screenshot-ejecucion](PEGA_AQUI_URL_O_RUTA_DEL_SCREENSHOT_EJECUCION)
+<img width="489" height="48" alt="image" src="https://github.com/user-attachments/assets/09af22c6-3645-476b-b00f-6077d7814c5a" />
+
 
 > 📌 *Comando:* `php index.php`
 
@@ -429,8 +429,8 @@ Seguir el estándar **PSR-4** garantiza que cualquier desarrollador que conozca 
 
 ## ⚠️ Dificultades y Soluciones
 
-<!-- 🎮 GIF de error/bug gracioso aquí -->
-![gif-bugs](PEGA_AQUI_URL_DE_UN_GIF_DE_BUG_O_ERROR_GRACIOSO)
+
+![gif-bugs](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTk0cmh5M3VpazhoZ3QyMXNyMXNqdWR4Nzl0ZDJ5NjVlOHozeHl1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gf3AUz3eBNbTW/giphy.gif)
 
 ### ❓ Dificultad 1 — Class not found al ejecutar `php index.php`
 
@@ -486,7 +486,7 @@ git commit -m "Excluir vendor/ del repositorio"
 ## 🎒 Referencias
 
 1. **Video de Autoayuda Proporcionado**  
-   🔗 https://www.youtube.com/watch?v=93pCiZT99Ks
+   🔗 https://www.youtube.com/watch?v=Al8WVUQMA6Y
 
 2. **PHP-FIG — PSR-4: Autoloader**  
    🔗 https://www.php-fig.org/psr/psr-4/
@@ -516,8 +516,8 @@ git commit -m "Excluir vendor/ del repositorio"
 
 ## 👨‍💻 Desarrollado por
 
-<!-- 🎉 GIF de celebración para el footer -->
-![gif-footer](PEGA_AQUI_URL_DE_UN_GIF_CHIDO_PARA_EL_FOOTER)
+
+![gif-footer](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em85Y3I0c2ZnenFhamt3aXVqdnY2bWtsMTh2cGVjNzJweGd5eGhxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mCDXo3yYjTXgGCGXIY/giphy.gif)
 
 **Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:**
 
